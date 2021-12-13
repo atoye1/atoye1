@@ -1,7 +1,7 @@
 - 👋 Hi, I’m DongHun Seol
 - 👀 I’m interested in ... Becoming Professional Software Engineer especially Backend Engineer.
 - 🌱 I’m currently learning ... CS Fundamentals
-- 📖 I've got elementary knowledge on C, C++, C#, Python, Vim, Linux, Shell Script, MySQL, AWS EC2, AWS Lambda.
+- 📖 I've got elementary knowledge on C, C++, C#, Python, Git, Vim, Linux, Shell Script, MySQL, AWS EC2, AWS Lambda.
 - 📫 How to reach me ... ssalssi1@gmail.com
 - 
 
