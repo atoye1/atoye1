@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DongHun Seol
-- 👀 I’m interested in ... Becoming Professional Software Engineer especially Backend Engineer.
+- 👀 I’m interested in ... Becoming Professional Software Engineer
 - 🌱 I’m currently learning ... CS Fundamentals
 
 - I think there is the only one way of making miracle. 
