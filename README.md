@@ -3,11 +3,11 @@
 
 ![atoye1's github stats](https://github-readme-stats.vercel.app/api?username=atoye1&show_icons=true)
 
-now I'm focusing on..
+now I'm focusing on..  
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 
 
-my favorite dev tools
+my favorite dev tools  
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
@@ -15,7 +15,7 @@ my favorite dev tools
 <img src="https://img.shields.io/badge/Alfred-5C1F87?style=flat&logo=Alfred&logoColor=white"/>
 
 
-tech that I've tried personal projects with
+tech that I've tried personal projects with  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
