@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=HelloWorld!)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hi Welcome to atoye1's repo!)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatoye1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![atoye1's github stats](https://github-readme-stats.vercel.app/api?username=atoye1&show_icons=true)
@@ -27,12 +27,12 @@ Tech that I've tried personal projects with
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
 
-Tech that I've studied at least for a semester
+Tech that I've studied at least for a semester  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++ EC2&logoColor=white"/>
 <img src="https://img.shields.io/badge/C Sharp-239128?style=flat&logo=C Sharp &logoColor=white"/>  
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Azure&logoColor=white"/>
 
-I'll study about those techs in the near future
+I'll study about those techs in the near future  
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=Solidity&logoColor=white"/>
