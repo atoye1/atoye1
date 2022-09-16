@@ -11,7 +11,7 @@ My favorite dev tools
 <img src="https://img.shields.io/badge/Alfred-5C1F87?style=flat&logo=Alfred&logoColor=white"/>
 
 
-Tech that I've tried personal projects with. 
+Tech that I've tried personal projects with  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
