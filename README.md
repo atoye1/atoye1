@@ -24,8 +24,8 @@ Tech that I've tried personal projects with
 
 Tech that I've studied at least for a semester  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++ EC2&logoColor=white"/>
-<img src="https://img.shields.io/badge/C Sharp-239128?style=flat&logo=C Sharp &logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C Sharp-239128?style=flat&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=Azure&logoColor=white"/>
 
 I'll study about those techs in the near future  
