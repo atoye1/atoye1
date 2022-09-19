@@ -6,9 +6,8 @@ Now I'm focusing on..
 My favorite dev tools  
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/macOS-2F3134?style=flat&logo=macOS&logoColor=white"/>
 <img src="https://img.shields.io/badge/iTerm2-2F3134?style=flat&logo=iTerm2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alfred-5C1F87?style=flat&logo=Alfred&logoColor=white"/>
+
 
 
 Tech that I've tried personal projects with  
