@@ -9,7 +9,7 @@
 
 블로그 : [velog.io/@atoye1](https://velog.io/@atoye1)
 
----
+
 
 # 기술 스택
 
@@ -59,14 +59,13 @@ Selenium 기반 웹 매크로를 개발할 수 있습니다.
 
 Jupyter Notebook, Pandas를 활용해 기초적인 EDA를 할 수 있습니다.
 
----
+
 
 # 프로젝트
 
 ## Crypto Default Swap(Final | 2023.01 - 2023.02)
 
 > **스마트 컨트랙트를 활용한 신용부도스왑(CDS)구현 DeFi 프로젝트**
-> 
 
 링크 : [https://d999baeavtte2.cloudfront.net/](https://d999baeavtte2.cloudfront.net/)
 
@@ -91,7 +90,6 @@ Jupyter Notebook, Pandas를 활용해 기초적인 EDA를 할 수 있습니다.
 ## Blockchain Community(Second | 2022.12 - 2023.01)
 
 > **ERC20, ERC721 토큰이코노미를 적용한 맛집 리뷰 인센티브 커뮤니티**
-> 
 
 깃허브 : [https://github.com/codestates-beb/beb-07-second-EWE](https://github.com/codestates-beb/beb-07-second-EWE)
 
@@ -113,7 +111,6 @@ Jupyter Notebook, Pandas를 활용해 기초적인 EDA를 할 수 있습니다.
 ## Coplit To Github | 2022.11
 
 > **코드스테이츠 코딩테스트 플랫폼 Coplit의 코드를 깃허브에 푸쉬해주는 크롬 익스텐션**
-> 
 
 링크 : [https://chrome.google.com/webstore/detail/coplit-to-git/fpdogcffloghmjkkgnaknfiflajkhccp](https://chrome.google.com/webstore/detail/coplit-to-git/fpdogcffloghmjkkgnaknfiflajkhccp)
 
@@ -131,7 +128,6 @@ Jupyter Notebook, Pandas를 활용해 기초적인 EDA를 할 수 있습니다.
 ## ChainChain | 2022.08
 
 > HyperLedger Fabric을 활용한 자전거 등록 및 신고 시스템
-> 
 
 링크 : [http://snowdelver.iptime.org:40000/](http://snowdelver.iptime.org:40000/)
 
@@ -150,7 +146,6 @@ HyperLedger Fabric 네트워크와 체인코드 배포는 자체 구현한 Shell
 - Javascript, Ejs, Node.js, Express.js, Multer
 - HyperLedger Fabric, Golang, Docker
 
----
 
 # 나의 장점
 
@@ -166,7 +161,6 @@ HyperLedger Fabric 네트워크와 체인코드 배포는 자체 구현한 Shell
 
 다년간 한 조직에 몸담고, 초급관리자로 근무하면서 조직의 일원으로서 가져야 할 책임과 의무에 대해 숙지하고 있습니다. 공기업이나 IT회사 모두 업무를 위한 조직이라는 점에서 조직의 구성원으로서 가져야 할 책임과 의무는 다르지 않다 생각합니다.
 
----
 
 # 경력
 
@@ -188,7 +182,6 @@ HyperLedger Fabric 네트워크와 체인코드 배포는 자체 구현한 Shell
 
 - The Army Commendation Medal 수상
 
----
 
 # 학력
 
@@ -198,7 +191,6 @@ HyperLedger Fabric 네트워크와 체인코드 배포는 자체 구현한 Shell
 
 4.34/4.5 성적우수 졸업
 
----
 
 # 교육
 
@@ -213,7 +205,6 @@ HyperLedger Fabric 네트워크와 체인코드 배포는 자체 구현한 Shell
 - HyperLedger Fabric기반 블록체인 웹서비스 학습
 - Node.js, HyperLedgerFabric, Golang을 활용한 풀스택 블록체인 웹앱 구현
 
----
 
 # 자격증
 
