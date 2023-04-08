@@ -1,7 +1,8 @@
 
 # atoye1
 
-7년째 공기업 사무직 재직중인 사회생활 경험이 있는 `경력있는 신입` Node.js / dApp 개발자.
+7년째 공기업 대리로 재직 중, 사회생활 경험있는 `경력있는 신입`
+AWS와 이더리움 환경에 익숙한 Node.js 백엔드 / dApp 개발자.
 
 ## About Me
 
@@ -18,7 +19,7 @@
 3. SDS-721 : NFT 마켓플레이스, NFT 발행 및 거래 가능
 4. Coplt To Github : 웹브라우저에서 작성한 코드를 자동으로 깃허브에 커밋해주는 크롬 익스텐션
 5. ChainChain : 방치 자전거 문제를 해결하기 위해 블록체인 프로젝트 하이퍼레져 패브릭을 기반으로 CRUD 기능 구현됨.
-6. 
+
 [프로젝트 상세보기 노션 링크](https://www.notion.so/atoye1/e473b1d32f1f4dfd8b8773c7d0693bfc?v=1eee98ca0d4942dfb1756d82bf074eae)
 
 ## Skills
@@ -34,8 +35,8 @@ Node.js
 TypeScript
 
 - TypeScript, TypeORM을 활용해 인증, 캐싱, 로드밸런싱이 적용된 웹서버를 구현할 수 있습니다.
-- OOP와 정적 타입언의 필요성을 이해하고 있으며, TypeScript를 적극적으로 학습중입니다.
-- 최근에는 함수형 프로그래밍 패러다임의 기초적에 대해 학습중입니다.
+- OOP와 정적 타입언의 필요성을 이해하고 있으며, Nest.js 프레임워크를 적극적으로 학습중입니다.
+
 
 SQL / NoSQL
 
