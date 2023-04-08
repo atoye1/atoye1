@@ -29,7 +29,7 @@ AWS와 이더리움 환경에 익숙한 Node.js 백엔드 / dApp 개발자.
 Node.js
 
 - Express.js 기반 웹서버를 개발, 클라우드 환경에 배포할 수 있습니다.
-- Jest, Vitest등의 테스트 프레임워크를 활용해 테스트 코드를 작성할 수 있습니다.
+- Jest, supertest, artillery 테스트 프레임워크를 활용해 유닛테스트, 통합테스트, 부하테스트를 할 수 있습니다.
 - Restful API에 대해 고민하고, OpenAPI 표준에 맞춰 설계, 구현 경험이 있습니다.
 
 TypeScript
