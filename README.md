@@ -14,7 +14,7 @@
 ---
 ### Recent Posts  
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=atoye1)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=atoye1)](https://velog.io/@atoye1) 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=atoye1)](https://github.com/eungyeole/velog-readme-stats)
 
