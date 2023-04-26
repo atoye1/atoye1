@@ -23,7 +23,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=atoye1)](https://velog.io/@atoye1) 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=devigloog)](https://velog.io/@eungyeole) 
 
 ---
 ### Badges
