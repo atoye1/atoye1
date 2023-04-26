@@ -14,9 +14,12 @@
 ---
 ### Recent Posts  
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=atoye1)](https://velog.io/@eungyeole) 
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=atoye1)](https://github.com/eungyeole/velog-readme-stats)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=atoye1)](https://velog.io/@atoye1) 
+
 ---
 ### Badges
 ![Atoye1's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoye1&count_private=true&theme=gruvbox_light)
