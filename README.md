@@ -20,6 +20,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=atoye1)](https://velog.io/@atoye1) 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=eungyeole)](https://velog.io/@eungyeole) 
+
 ---
 ### Badges
 ![Atoye1's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoye1&count_private=true&theme=gruvbox_light)
