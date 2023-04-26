@@ -11,6 +11,8 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+--- ### Recent Posts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=atoye1)](https://github.com/eungyeole/velog-readme-stats)
 ---
 ### Badges
 ![Atoye1's GitHub stats](https://github-readme-stats.vercel.app/api?username=atoye1&count_private=true&theme=gruvbox_light)
