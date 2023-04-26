@@ -14,16 +14,10 @@
 ---
 ### Recent Posts  
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=atoye1)](https://velog.io/@atoye1) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=atoye1)](https://github.com/eungyeole/velog-readme-stats)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=velopert)](https://velog.io/@velopert) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=city7310)](https://velog.io/@atoye1) 
+[![atoye1's velog badge](https://velog-readme-stats.vercel.app/api/badge?name=atoye1)](https://velog.io/@atoye1) 
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=devigloog)](https://velog.io/@eungyeole) 
+[![atoye1's recent posts](https://velog-readme-stats.vercel.app/api/list?name=atoye1)](https://velog.io/@atoye1) 
 
 ---
 ### Badges
