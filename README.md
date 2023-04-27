@@ -14,10 +14,10 @@
 ---
 ### Recent Posts  
 
-[![atoye1's velog badge](https://velog-readme-stats.vercel.app/api/badge?name=@at)](https://velog.io/@atoye1) 
+[![atoye1's velog badge](https://velog-readme-stats.vercel.app/api/badge?name=@atoye1)](https://velog.io/@atoye1) 
 
 
-[![atoye1's recent posts](https://velog-readme-stats.vercel.app/api/list?name='atoye1')](https://velog.io/@atoye1) 
+[![atoye1's recent posts](https://velog-readme-stats.vercel.app/api/list?name=atoye1)](https://velog.io/@atoye1) 
 
 ---
 ### Badges
